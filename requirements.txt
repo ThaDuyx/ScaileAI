@@ -1,0 +1,5 @@
+pip install <music21> -t
+pip install <keras> -t
+pip install <tensorflow> -t
+pip install <numpy> -t
+pip install <pickle> -t
