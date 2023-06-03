@@ -13,6 +13,10 @@
   
 
 ## Generating
+  - By running the main.py project the training will start. This requires a path to a directory loaded with MIDI files. 
+  - The training will first map the chords using the music21 framework resulting in a data structure of a list of chords.
+  - The data will be mapped to a String format and converted to Integer for working with Keras.
+  - When the training is done this will be converted back using music21 and streamed into a MIDI file.
   
 ## How To Use
 <p align="center">
