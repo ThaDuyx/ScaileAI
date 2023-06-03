@@ -29,7 +29,7 @@
 
 ## Tools
 ### Data
-- The training data consisted of a large bank of chord progression MIDI files made by the company _'Unison'_. 
+- The training data consisted of a large bank of chord progression MIDI files made by the company _'Unison'_ which is listed in the project.
 
 ### Software
 - Visual Studio Code
