@@ -39,9 +39,8 @@
 - Keras
 - Flask
 
-### App
-- LSTM Neural Network generator: 
-https://github.com/ThaDuyx/Scaile
+### iOS App
+- iOS mobile application frontend: https://github.com/ThaDuyx/Scaile
 
 ### Supporting Files
 - MIDI files (.mid)
