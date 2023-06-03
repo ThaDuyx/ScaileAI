@@ -6,7 +6,7 @@
 
 > A Python project used for creative purposes. The application generates chord progressions in the MIDI format through a LSTM recurrent neural network. The application is setup as a local server structure waiting for HTTP request. It works in conjunction with the Scaile app but can be expanded to a website environment.
 
- - Developed in Swift
+Developed in Python
 
 ## Purpose of the project
   - The purpose of the project was to explore if it was possible to generate chord progressions from a Neural Network. The object was to maintain the harmonic elements of the training data and generate a variety of chords with a sense of knowledge in music theory. Essentially matching the harmonic structure of a chord progression.
