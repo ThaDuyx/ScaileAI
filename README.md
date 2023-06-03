@@ -9,7 +9,7 @@
  - Developed in Swift
 
 ## Purpose of the project
-  The purpose of the project was to explore if it was possible to generate chord progressions from a Neural Network. The object was to maintain the harmonic elements of the training data and generate a variety of chords with a sense of knowledge in music theory. Essentially matching the harmonic structure of a chord progression.
+  - The purpose of the project was to explore if it was possible to generate chord progressions from a Neural Network. The object was to maintain the harmonic elements of the training data and generate a variety of chords with a sense of knowledge in music theory. Essentially matching the harmonic structure of a chord progression.
   
 
 ## Generating
@@ -25,7 +25,7 @@
 
 ## Tools
 ### Data
-The training data consisted of a large bank of chord progression MIDI files made by the company _'Unison'_. 
+- The training data consisted of a large bank of chord progression MIDI files made by the company _'Unison'_. 
 
 ### Software
 - Visual Studio Code
