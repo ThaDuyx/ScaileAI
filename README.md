@@ -1,7 +1,7 @@
 # ScaileAI
 
 <p align="center">
-  <img width="100" src="https://github.com/ThaDuyx/Scaile/blob/main/Scaile/Supporting%20Files/Assets.xcassets/ScaileAI.imageset/ScaileAI.png?raw=true"
+  <img width="200" src="https://github.com/ThaDuyx/Scaile/blob/main/Scaile/Supporting%20Files/Assets.xcassets/ScaileAI.imageset/ScaileAI.png?raw=true"
 </p>
 
 > A Python project used for creative purposes. The application generates chord progressions in the MIDI format through a LSTM recurrent neural network. The application is setup as a local server structure waiting for HTTP request. It works in conjunction with the Scaile app but can be expanded to a website environment.
