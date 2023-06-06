@@ -19,13 +19,9 @@
   - When the training is done this will be converted back using music21 and streamed into a MIDI file.
   
 ## How To Use
-<p align="center">
-    <a href="http://www.youtube.com/watch?feature=player_embedded&v=TEudhz0Tdts" target="_blank">
-    <img src="http://img.youtube.com/vi/TEudhz0Tdts/mqdefault.jpg" alt="Watch the video" width="400" height="220" border="10" />
-    </a>
-</p>
-  
-
+  1. Place MIDI in folder
+  2. Run main.py
+  3. Run generate.py
 
 ## Tools
 ### Data
